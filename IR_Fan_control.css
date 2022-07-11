@@ -1,0 +1,95 @@
+.circle {
+  width: 600px;
+  height: 600px;
+  background: #DEB887;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.button1 {
+  width: 60px;
+  height: 60px;
+  background: #5F9EA0;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  position: fixed;
+  left: 100px;
+  top:  200px;
+}
+.button2 {
+  width: 60px;
+  height: 60px;
+  background: #5F9EA0;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  position: fixed;
+  right: 100px;
+  top:  200px;
+}
+.button3 {
+  width: 60px;
+  height: 60px;
+  background: #5F9EA0;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  position: fixed;
+  left: 125px;
+  top:  370px;
+}
+.button4 {
+  width: 60px;
+  height: 60px;
+  background: #5F9EA0;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  position: fixed;
+  right: 125px;
+  top:  370px;
+}
+.button5 { 
+  width: 60px;
+  height: 60px;
+  background: #5F9EA0;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  position: fixed;
+  right: 150px;
+  top:  60px;
+}
+.button6 { 
+  width: 60px;
+  height: 60px;
+  background: #5F9EA0;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  position: fixed;
+  left: 150px;
+  top:  60px;
+}
+.button7 { 
+  width: 60px;
+  height: 200px;
+  background: #5F9EA0;
+  border-radius: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  position: fixed;
+  right: 275px;
+  top:  390px;
+}
+}
